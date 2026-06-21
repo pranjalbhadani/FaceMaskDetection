@@ -6,6 +6,10 @@ A deep learning-based face mask detection application built using **PyTorch**, *
 
 https://facemaskdetectionresnet.streamlit.app/
 
+## Kaggle Notebook link
+
+https://www.kaggle.com/code/pranjalbhadani/face-mask-detection-system
+
 ## Features
 
 * Face mask classification using a fine-tuned ResNet18 model
