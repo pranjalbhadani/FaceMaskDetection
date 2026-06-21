@@ -4,7 +4,7 @@ A deep learning-based face mask detection application built using **PyTorch**, *
 
 ## Live Demo
 
-[Add Streamlit Cloud URL Here]
+https://facemaskdetectionresnet.streamlit.app/
 
 ## Features
 
